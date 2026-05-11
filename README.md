@@ -115,8 +115,8 @@ I build intelligent systems, modern mobile apps, secure AI tools, and decentrali
 
 # 📫 Connect
 
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: your@email.com
+- GitHub: https://github.com/Jackson-AI-Dev2416
+- Email: jackson.aidev.cs@email.com
 
 ---
 
