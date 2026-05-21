@@ -10,7 +10,7 @@ I build intelligent systems, modern mobile apps, secure AI tools, and decentrali
 
 - 🤖 AI & LLM Security Research
 - 🐍 Python Backend & Automation
-- 📱 Flutter Android App Development
+- 📱 React Native App Development
 - ⛓️ Blockchain & Web3 dApps
 - 🌐 Full Stack Web Development
 - 🔐 AI Security / Prompt Injection Defense
@@ -49,6 +49,12 @@ I build intelligent systems, modern mobile apps, secure AI tools, and decentrali
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F1B?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![AsyncStorage](https://img.shields.io/badge/AsyncStorage-FFCA28?style=for-the-badge&logo=react&logoColor=black)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Expo Router](https://img.shields.io/badge/Expo_Router-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ---
 
